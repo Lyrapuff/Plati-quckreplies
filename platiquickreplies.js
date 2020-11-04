@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         New Userscript
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
-// @author       You
-// @match        https://my.digiseller.com/inside/purchases_inv_detail.asp?id_i=*&view=debate*
+// @name         Plati qickreplies
+// @namespace    https://github.com/Lyrapuff
+// @version      1
+// @description  Adds some neat reply buttons on the conversation page
+// @author       Lyrapuff
+// @match        *my.digiseller.com/inside/purchases_inv_detail.asp?id_i=*&view=debate*
 // @grant        none
 
 // ==/UserScript==
