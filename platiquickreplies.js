@@ -49,7 +49,7 @@ let replies = localStorage.getItem('replies') ?? [
         "eng": `It'll take some more time.`
     },
     {
-        "short": `Извитие`,
+        "short": `Извините`,
         "ru": `Извините за доставленные неудобства.`,
         "eng": `I'm sorry for this inconvenience.`
     },
