@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Plati qickreplies
 // @namespace    https://github.com/Lyrapuff
-// @version      1
+// @version      1.1
 // @description  Adds some neat reply buttons on the conversation page
 // @author       Lyrapuff
 // @match        *my.digiseller.com/inside/purchases_inv_detail.asp?id_i=*&view=debate*
